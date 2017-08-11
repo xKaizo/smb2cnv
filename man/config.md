@@ -149,7 +149,7 @@ Container element for animated data (can contain collision, level/background mod
 ### Attributes
 interp: Interpolation method
 #### Allowed values
-linear: Linearly interpolate (default).
+linear: Linearly interpolate (default).  
 spline: Spline interpolation.
 
 ## `<frame>` <a id="md_cfg_frame"></a>
