@@ -86,9 +86,9 @@ Container element for a single wormhole entrance in a pair (SMB2 only).
 ## `<button>` <a id="md_cfg_button"></a>
 Container element for a single button object (SMB2 only) (unimplemented).
 ### Attributes
+THIS OBJECT NOT YET REVERSE ENGINEERED, PROPERTIES SUBJECT TO CHANGE!!  
 ext_type: Extended type
 #### Allowed values
-THIS OBJECT NOT YET REVERSE ENGINEERED, PROPERTIES SUBJECT TO CHANGE!!  
 play: Play button (default).  
 ff: Fast forward button.  
 back: Backwards button.  
@@ -96,7 +96,7 @@ rewind: Rewind button.
 pause: Pause button.
 
 ## `<seesaw>` <a id="md_cfg_seesaw"></a>
-Container element for a single seesaw entrance in a pair (SMB2 only) (unimplemented).
+Container element for a single seesaw object (SMB2 only) (unimplemented).
 ### Attributes
 THIS OBJECT NOT YET REVERSE ENGINEERED, PROPERTIES SUBJECT TO CHANGE!!  
 strength: Strength of seesaw. Lower values mean a stiffer seesaw (default 1).  
